@@ -30,7 +30,7 @@ const shreyashPatange = {
 ### Programming Languages
 
 ```text
-Python | C++ | JavaScript | SQL | HTML | CSS
+Python | C++ | JavaScript | SQL | HTML | CSS | C
 ```
 
 ### AI & Machine Learning
@@ -39,7 +39,7 @@ Python | C++ | JavaScript | SQL | HTML | CSS
 LLMs | RAG | LangChain | Vector Databases
 Machine Learning | NLP | Prompt Engineering
 Sentence Transformers | Hugging Face
-Groq API | Gemini AI
+Groq API | Gemini AI | GitHub API
 ```
 
 ### Frontend Development
@@ -60,14 +60,14 @@ REST APIs | Authentication | Microservices
 
 ```text
 MongoDB | PostgreSQL | Supabase
-Qdrant | ChromaDB | Redis
+Qdrant | ChromaDB | Redis 
 ```
 
 ### DevOps & Cloud
 
 ```text
 Docker | Git | GitHub Actions
-Vercel | Render | Linux
+Vercel | Render | Linux 
 ```
 
 ## 🌟 Featured Projects
