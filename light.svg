@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<style>
+    .art  { fill:#8250df; font-size:6.8px; white-space:pre; }
+    .key  { fill:#1a7f37; font-size:13px; font-weight:700; }
+    .val  { fill:#1f2328; font-size:13px; }
+    .acc  { fill:#0969da; font-size:13px; }
+    .wrn  { fill:#9a6700; font-size:13px; }
+    .mut  { fill:#59636e; font-size:12px; }
+    .hdr  { fill:#0969da; font-size:15px; font-weight:700; }
+    .sec  { fill:#59636e; font-size:12px; letter-spacing:1px; }
+    .ttl  { fill:#59636e; font-size:12px; }
+    .row  { opacity:1; animation: fade .35s ease backwards; }
+    @keyframes fade { from { opacity:0; transform:translateY(3px); }
+                       to   { opacity:1; transform:translateY(0); } }
+    .cur  { fill:#1a7f37; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+    .artline { opacity:1; animation: fade .3s ease backwards; }
+    </style>
+<rect x="1" y="1" width="918" height="618" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h894 a12 12 0 0 1 12 12 v25 h-918 z" fill="#f6f8fa"/>
+<line x1="1" y1="38" x2="919" y2="38" stroke="#d0d7de"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="460.0" y="24" class="ttl" text-anchor="middle">Shreyash021104 — zsh — 90×26</text>
+<text x="30" y="66" class="row" style="animation-delay:.05s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
+<text x="30" y="86.0" class="art artline" xml:space="preserve" textLength="258.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.15s">. -**#%%%%%%%%%%%@%%#--==:-..                .==:.--::::....</text>
+<text x="30" y="93.4" class="art artline" xml:space="preserve" textLength="258.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s">  -%@@%@%%%%%%%%###%%%#%@%%%%*=.             :=-.:---:::....</text>
+<text x="30" y="100.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.17s">..:-++++++++++===*@@@@@@@@@@@@@@+.           .=-.---:::::......:</text>
+<text x="30" y="108.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.19s">::::::::-::--:::*@@@@@@@@@@@@@@@@%+:         .=-.-----:---:...#%</text>
+<text x="30" y="115.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.20s">.............. -@@@@@@@@@@@@@@@@@@@#         :+=:=====--=--:=%%%</text>
+<text x="30" y="123.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.21s">               =@@@##*******++#@@@#:         -*+:====...-==%@%%#</text>
+<text x="30" y="130.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.22s">               .%@*-==++===-::-+%@:          -*+:===--*--=#%%##=</text>
+<text x="30" y="137.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.23s">                =%-=+*#*+++**+=-+%           -**--=###@%@%=+%%%#</text>
+<text x="30" y="145.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.25s">                :+-+*#%#++*%%**+=+-.         -*+=-+#***++++=++*+</text>
+<text x="30" y="152.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.26s">                ----+**+-.---:-::=+:     .   -##***++****###****</text>
+<text x="30" y="160.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.27s">                -=::=++==---==::---      ... -###*=+****%#*+===-</text>
+<text x="30" y="167.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s">                 ---=+++**+-++==--:      ... -****=-=====---::..</text>
+<text x="30" y="174.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.29s">                 .:==*****++**===.       ... :*****=-======---::</text>
+<text x="30" y="182.1" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.31s">                   -=++++*+=-=++:        ... :******=-======--::</text>
+<text x="30" y="189.5" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.32s">                    -===++==+*#++.       ... :*#*****+-======---</text>
+<text x="30" y="196.9" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.33s">                   .-=++**####*-%#.      ... -####*****--====---</text>
+<text x="30" y="204.3" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s">                   ##-==+****+=+%%#*=-.      -#####****#+--====-</text>
+<text x="30" y="211.7" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.35s">                :-*@@+==++++*+*#%#%%@@%#*+=:.-#######***#*+=---=</text>
+<text x="30" y="219.1" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.37s">            :=*%%%@@@%*++++***#%###%#%%%%%%%#*#########***##*+--</text>
+<text x="30" y="226.5" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.38s">         -*#@@@@%#@@@#*++++-+%%####%%@%%%%%%%%#####%#######*###*</text>
+<text x="30" y="233.9" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s">       .*@@@%%@@%@@@@*+===:+@@@%%%%@@%%@@@@@@%%%%###########****</text>
+<text x="30" y="241.3" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.40s">       #@@@@@@@@@@@@@%*=-:=@@@@@@@@@@@@@@@@@@@@@%%%+-======-----</text>
+<text x="30" y="248.7" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.41s">      -@@@@@@@@@@@@@@@##=+##@@@@@@%@@@@@@@@@@@@@@@%#----------::</text>
+<text x="30" y="256.1" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.43s">      *@@@@@@@@@@@@@@@##%%#@@@@@@@@@@@@@@@@@@@@@@@@@*---------::</text>
+<text x="30" y="263.5" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.44s">     .%@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@+--------::</text>
+<text x="30" y="270.9" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s">     =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=-------::</text>
+<text x="30" y="278.3" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.46s">     #%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+-=-----::</text>
+<text x="30" y="285.7" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.47s">    .%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%---::::::</text>
+<text x="30" y="293.1" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.49s">    :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=::::...</text>
+<text x="30" y="300.5" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.50s">    -@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%=:::....</text>
+<text x="30" y="307.9" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.51s">    *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.:::....</text>
+<text x="30" y="315.3" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.52s">   .%@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-:::...</text>
+<text x="30" y="322.7" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s">   -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+::::..</text>
+<text x="30" y="330.1" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.55s">   -@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::::..</text>
+<text x="30" y="337.5" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">  .#@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=::::..</text>
+<text x="30" y="344.9" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.57s">  #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@%+-::..</text>
+<text x="30" y="352.3" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.58s"> :@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+@@@@@@@@@@@=:::.</text>
+<text x="30" y="359.7" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s"> =@@@@@@@@@@%@%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@%:*@###%%@@%=::::.</text>
+<text x="30" y="367.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.61s">  *%@@@@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.+*===++*+::::::.</text>
+<text x="30" y="374.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.62s"> =%@@@@@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+-#++++=++::::::::</text>
+<text x="30" y="381.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.63s"> *@%%%%%@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+++++++-::::::::</text>
+<text x="30" y="389.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.64s"> .=++**#@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+++++++=:::::::::</text>
+<text x="30" y="396.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.65s">  .=+**%@%@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++++++++:::::::::.</text>
+<text x="30" y="404.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.67s">  .=+**%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*+++++++:.:::::::..</text>
+<text x="30" y="411.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.68s">  .=+**%@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+++++++:.::::::::..</text>
+<text x="30" y="418.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.69s">  .=++#%@=+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=+++++-.:::::::::..</text>
+<text x="30" y="426.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.70s">   ==+#@%..=*+%@%#%%#*%@%%%%%%@@@@@@@@@@@@%+=+++++-.:::::::::...</text>
+<text x="30" y="433.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.71s">   ==*#+. ..:=%@*#@@%+=@@@@@#=@@@@@@%%#*%%+=+++++-.::::::::::...</text>
+<text x="30" y="441.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.73s">   =++-  ...-:-**#@@@**@@@@@@=@@@@#++==*#=-=++++:.::::::::::....</text>
+<text x="30" y="448.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.74s">   -=: .:..-=:.=*++++=*******-+*+=-::.-#+:.--=+:.:::::::::::....</text>
+<text x="30" y="455.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.75s"> ..-:..: .==---:===-----:::::-:..:::. .++*-+#+:..::::::::::.....</text>
+<text x="30" y="463.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.76s"> ..:... .-==-:--:-=-==--------::. .:-: -+**==-....:::::::::.....</text>
+<text x="30" y="470.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.77s">    .. .-====----:-------:--:::::....:::=+**+-.......:::::......</text>
+<text x="30" y="478.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">    ...-======---:----------:-:::::...::-+*+=:..........:.......</text>
+<text x="30" y="485.4" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.80s">      :-========---------------:::::..::-=*+-:..................</text>
+<text x="30" y="492.8" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.81s">     :---=========------:--------::::-----=--:..................</text>
+<text x="30" y="500.2" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.82s">    .---===========---------------:-====---:--..................</text>
+<text x="30" y="507.6" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.83s">    .:--=======+++++++-==----::::::-=-==------..................</text>
+<text x="30" y="515.0" class="art artline" xml:space="preserve" textLength="275.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.85s">    .:---========+++*#*=--::::::::-===-----:.:..................</text>
+<text x="330" y="92.0" class="hdr row" style="animation-delay:0.35s">shreyash@intangles</text>
+<line x1="330" y1="101.5" x2="880" y2="101.5" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
+<text x="330" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
+<text x="422" y="117.5" class="val row" style="animation-delay:0.49s">Backend Developer @ Intangles Lab, Pune</text>
+<text x="330" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
+<text x="422" y="135.0" class="val row" style="animation-delay:0.56s">B.E. E&amp;TC, PICT Pune  ·  Class of 2026</text>
+<text x="330" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
+<text x="422" y="152.5" class="acc row" style="animation-delay:0.63s">Backend Engineering  ·  Agentic AI / LLMs</text>
+<text x="330" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
+<text x="330" y="197.5" class="key row" style="animation-delay:0.77s">Lang</text>
+<text x="422" y="197.5" class="val row" style="animation-delay:0.77s">Python · C++ · JavaScript · SQL</text>
+<text x="330" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
+<text x="422" y="215.0" class="val row" style="animation-delay:0.84s">FastAPI · Flask · Node.js · REST · Microservices</text>
+<text x="330" y="232.5" class="key row" style="animation-delay:0.91s">AI</text>
+<text x="422" y="232.5" class="val row" style="animation-delay:0.91s">LLMs · RAG · LangChain · CrewAI · Vector DBs</text>
+<text x="330" y="250.0" class="key row" style="animation-delay:0.98s">Infra</text>
+<text x="422" y="250.0" class="val row" style="animation-delay:0.98s">AWS Bedrock · Kubernetes · RabbitMQ · Prometheus</text>
+<text x="330" y="267.5" class="key row" style="animation-delay:1.05s">Data</text>
+<text x="422" y="267.5" class="val row" style="animation-delay:1.05s">PostgreSQL · MongoDB · Redis · Qdrant</text>
+<text x="330" y="295.0" class="sec row" style="animation-delay:1.12s">~/projects</text>
+<text x="330" y="312.5" class="key row" style="animation-delay:1.19s">HUSH</text>
+<text x="422" y="312.5" class="wrn row" style="animation-delay:1.19s">Autonomous multi-agent SRE incident response</text>
+<text x="422" y="330.0" class="mut row" style="animation-delay:1.26s">incident resolution: ~30 min  -&gt;  &lt; 2 min</text>
+<text x="330" y="347.5" class="key row" style="animation-delay:1.33s">CogniLearn</text>
+<text x="422" y="347.5" class="wrn row" style="animation-delay:1.33s">AI skilling + interview prep platform</text>
+<text x="330" y="365.0" class="key row" style="animation-delay:1.40s">FuelWatch</text>
+<text x="422" y="365.0" class="wrn row" style="animation-delay:1.40s">CrewAI multi-agent theft detection · 97% acc</text>
+<text x="330" y="382.5" class="key row" style="animation-delay:1.47s">MediGuide</text>
+<text x="422" y="382.5" class="wrn row" style="animation-delay:1.47s">ML health assistant · Springer LNNS (Scopus)</text>
+<text x="330" y="410.0" class="sec row" style="animation-delay:1.54s">~/highlights</text>
+<text x="330" y="427.5" class="key row" style="animation-delay:1.61s">Award</text>
+<text x="422" y="427.5" class="val row" style="animation-delay:1.61s">Runner-Up · INSPIRON 4.0 National Hackathon</text>
+<text x="330" y="445.0" class="row" style="animation-delay:1.68s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 22   ·   stars 4   ·   followers 2</tspan></text>
+<text x="330" y="472.5" class="sec row" style="animation-delay:1.75s">~/reach</text>
+<text x="330" y="490.0" class="key row" style="animation-delay:1.82s">Web</text>
+<text x="422" y="490.0" class="acc row" style="animation-delay:1.82s">shreyash021104.github.io/portfolio</text>
+<text x="330" y="507.5" class="key row" style="animation-delay:1.89s">In</text>
+<text x="422" y="507.5" class="acc row" style="animation-delay:1.89s">linkedin.com/in/shreyash-patange-674111252</text>
+<text x="330" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
+<text x="422" y="525.0" class="acc row" style="animation-delay:1.96s">shreyashpatange@gmail.com</text>
+<text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="886" y="596" class="mut" text-anchor="end">last updated 14 Jul 2026, 09:12 IST</text>
+</svg>
