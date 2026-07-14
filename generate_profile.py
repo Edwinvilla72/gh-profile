@@ -75,11 +75,11 @@ THEMES = {
     },
 }
 
-W, H = 920, 620
+W, H = 980, 620
 ART_X, ART_Y = 30, 86
-ART_CW = 4.3          # forced char width (textLength keeps this exact in any font)
+ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
-INFO_X, INFO_Y, INFO_LH = 330, 92, 17.5
+INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
 VAL_X = INFO_X + 92
 
 
@@ -131,7 +131,7 @@ def render(theme_name, colors, stats, ist_now):
 
     # styles + animations
     parts.append(f"""<style>
-    .art  {{ fill:{colors['art']}; font-size:6.8px; white-space:pre; }}
+    .art  {{ fill:{colors['art']}; font-size:6.2px; white-space:pre; }}
     .key  {{ fill:{colors['key']}; font-size:13px; font-weight:700; }}
     .val  {{ fill:{colors['text']}; font-size:13px; }}
     .acc  {{ fill:{colors['accent']}; font-size:13px; }}
