@@ -30,9 +30,9 @@ def load_portrait():
 
 # (label, value, colour-key)  |  colour-key: key / val / accent / warn / muted
 INFO = [
-    ("__header__", "shreyash@intangles", ""),
+    ("__header__", "shreyash patange", ""),
     ("__rule__", "", ""),
-    ("Role",     "Backend Developer @ Intangles Lab, Pune", "val"),
+    ("Role",     "Backend Developer Intern @ Intangles Lab, Pune", "val"),
     ("Edu",      "B.E. E&TC, PICT Pune  ·  Class of 2026", "val"),
     ("Focus",    "Backend Engineering  ·  Agentic AI / LLMs", "accent"),
     ("__blank__", "", ""),
