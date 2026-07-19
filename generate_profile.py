@@ -35,7 +35,7 @@ INFO = [
     ("__section__", "~/whoami", ""),
     ("Role",     "Full Stack Engineer @ Entertainment Technology Partners", "val"),
     ("Education",      "B.S. Computer Science, UCF '26", "val"),
-    ("Focus",    "Full-stack systems, AI agents, LLM apps", "accent"),
+    ("Focus",    "Full-stack development, AI agents, LLM apps", "accent"),
     ("__blank__", "", ""),
     
     ("__section__", "~/stack", ""),
