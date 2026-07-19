@@ -50,7 +50,7 @@ INFO = [
     ("__section__", "~/projects", ""),
     ("IBA (SD)", "Multi-agent browser automation platform", "warn"),
     ("", "Senior design; PM, full stack, UI/UX, AI agents", "muted"),
-    ("knw. (ETP)", "Audience analytics and operator dashboards", "warn"),
+    ("knw. (ETP)", "Gain insights on audience engagement", "warn"),
     ("SHADE", "Human-like cyber-defense automation", "warn"),
     # ("FamFinApp", "Personal finance planning app", "warn"),
     ("__blank__", "", ""),
