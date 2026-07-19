@@ -72,45 +72,46 @@
 <text x="30" y="461.9" class="art artline" xml:space="preserve" textLength="323.7" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.69s">     :  .:::::::.--:::::.-:-=.:::::::::::::::::::=:... ==-%- ..:-:::::::::::.:+:.:.</text>
 <text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">Edwin Gabriel Villanueva</text>
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
-<text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Full Stack Engineer @ Entertainment Technology Partners</text>
-<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
-<text x="540" y="135.0" class="val row" style="animation-delay:0.56s">B.S. Computer Science, UCF &#x27;26</text>
-<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
-<text x="540" y="152.5" class="acc row" style="animation-delay:0.63s">Full-stack systems, AI agents, LLM apps</text>
-<text x="448" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
-<text x="448" y="197.5" class="key row" style="animation-delay:0.77s">Languages</text>
-<text x="540" y="197.5" class="val row" style="animation-delay:0.77s">C, Python, TypeScript, JavaScript, SQL, C++, Java</text>
-<text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Backend</text>
-<text x="540" y="215.0" class="val row" style="animation-delay:0.84s">FastAPI, Node.js/Express, Next.js, REST APIs</text>
-<text x="448" y="232.5" class="key row" style="animation-delay:0.91s">AI</text>
-<text x="540" y="232.5" class="val row" style="animation-delay:0.91s">LLM APIs, LangGraph, Agent Systems</text>
-<text x="448" y="250.0" class="key row" style="animation-delay:0.98s">Infra</text>
-<text x="540" y="250.0" class="val row" style="animation-delay:0.98s">AWS, Docker, Linux, CI/CD, SAM CLI</text>
-<text x="448" y="267.5" class="key row" style="animation-delay:1.05s">Data</text>
-<text x="540" y="267.5" class="val row" style="animation-delay:1.05s">PostgreSQL, MongoDB, DynamoDB</text>
-<text x="448" y="295.0" class="sec row" style="animation-delay:1.12s">~/projects</text>
-<text x="448" y="312.5" class="key row" style="animation-delay:1.19s">IBA (SD)</text>
-<text x="540" y="312.5" class="wrn row" style="animation-delay:1.19s">Multi-agent browser task automation tool</text>
-<text x="540" y="330.0" class="mut row" style="animation-delay:1.26s">IBA = Intelligent Browser Agents</text>
-<text x="448" y="347.5" class="key row" style="animation-delay:1.33s">knw. (ETP)</text>
-<text x="540" y="347.5" class="wrn row" style="animation-delay:1.33s">Gain insights on audience engagement</text>
-<text x="448" y="365.0" class="key row" style="animation-delay:1.40s">FuelWatch</text>
-<text x="540" y="365.0" class="wrn row" style="animation-delay:1.40s">CrewAI theft detection, 97% accuracy</text>
-<text x="448" y="382.5" class="key row" style="animation-delay:1.47s">MediGuide</text>
-<text x="540" y="382.5" class="wrn row" style="animation-delay:1.47s">Health assistant published in Springer LNNS</text>
-<text x="448" y="410.0" class="sec row" style="animation-delay:1.54s">~/highlights</text>
-<text x="448" y="427.5" class="key row" style="animation-delay:1.61s">Award</text>
-<text x="540" y="427.5" class="val row" style="animation-delay:1.61s">UCF CECS Senior Design Showcase finalist</text>
-<text x="448" y="445.0" class="row" style="animation-delay:1.68s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 22   ·   stars 2   ·   followers 5</tspan></text>
-<line x1="448" y1="454.5" x2="940" y2="454.5" stroke="#30363d" class="row" style="animation-delay:1.75s"/>
-<text x="448" y="470.5" class="sec row" style="animation-delay:1.82s">~/reach</text>
-<text x="448" y="488.0" class="key row" style="animation-delay:1.89s">Web</text>
-<text x="540" y="488.0" class="acc row" style="animation-delay:1.89s">Edwingabriel.com</text>
-<text x="448" y="505.5" class="key row" style="animation-delay:1.96s">In</text>
-<text x="540" y="505.5" class="acc row" style="animation-delay:1.96s">linkedin.com/in/edwin-villanueva</text>
-<text x="448" y="523.0" class="key row" style="animation-delay:2.03s">Mail</text>
-<text x="540" y="523.0" class="acc row" style="animation-delay:2.03s">Edwin.villa2@icloud.com</text>
-<text x="30" y="596" class="row" style="animation-delay:2.20s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to software engineer and full-stack roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 19 Jul 2026, 07:56 IST</text>
+<text x="448" y="117.5" class="sec row" style="animation-delay:0.49s">~/whoami</text>
+<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Role</text>
+<text x="540" y="135.0" class="val row" style="animation-delay:0.56s">Full Stack Engineer @ Entertainment Technology Partners</text>
+<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Education</text>
+<text x="540" y="152.5" class="val row" style="animation-delay:0.63s">B.S. Computer Science, UCF &#x27;26</text>
+<text x="448" y="170.0" class="key row" style="animation-delay:0.70s">Focus</text>
+<text x="540" y="170.0" class="acc row" style="animation-delay:0.70s">Full-stack systems, AI agents, LLM apps</text>
+<text x="448" y="197.5" class="sec row" style="animation-delay:0.77s">~/stack</text>
+<text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Languages</text>
+<text x="540" y="215.0" class="val row" style="animation-delay:0.84s">C, Python, TypeScript, JavaScript, SQL, C++, Java</text>
+<text x="540" y="232.5" class="mut row" style="animation-delay:0.91s">Senior design; PM, full stack, UI/UX, AI agents</text>
+<text x="448" y="250.0" class="key row" style="animation-delay:0.98s">Backend</text>
+<text x="540" y="250.0" class="val row" style="animation-delay:0.98s">FastAPI, Node.js/Express, Next.js, REST APIs</text>
+<text x="448" y="267.5" class="key row" style="animation-delay:1.05s">AI</text>
+<text x="540" y="267.5" class="val row" style="animation-delay:1.05s">LLM APIs, LangGraph, Agent Systems</text>
+<text x="448" y="285.0" class="key row" style="animation-delay:1.12s">Infra</text>
+<text x="540" y="285.0" class="val row" style="animation-delay:1.12s">AWS, Docker, Linux, CI/CD, SAM CLI</text>
+<text x="448" y="302.5" class="key row" style="animation-delay:1.19s">Data</text>
+<text x="540" y="302.5" class="val row" style="animation-delay:1.19s">PostgreSQL, MongoDB, DynamoDB</text>
+<text x="448" y="330.0" class="sec row" style="animation-delay:1.26s">~/projects</text>
+<text x="448" y="347.5" class="key row" style="animation-delay:1.33s">IBA (SD)</text>
+<text x="540" y="347.5" class="wrn row" style="animation-delay:1.33s">Multi-agent browser automation platform</text>
+<text x="540" y="365.0" class="mut row" style="animation-delay:1.40s">Senior design; PM, full stack, UI/UX, AI agents</text>
+<text x="448" y="382.5" class="key row" style="animation-delay:1.47s">knw. (ETP)</text>
+<text x="540" y="382.5" class="wrn row" style="animation-delay:1.47s">Audience analytics and operator dashboards</text>
+<text x="448" y="400.0" class="key row" style="animation-delay:1.54s">SHADE</text>
+<text x="540" y="400.0" class="wrn row" style="animation-delay:1.54s">Human-like cyber-defense automation</text>
+<text x="448" y="427.5" class="sec row" style="animation-delay:1.61s">~/highlights</text>
+<text x="448" y="445.0" class="key row" style="animation-delay:1.68s">Recognition</text>
+<text x="540" y="445.0" class="val row" style="animation-delay:1.68s">UCF CECS Senior Design Showcase finalist</text>
+<text x="448" y="462.5" class="key row" style="animation-delay:1.75s">Leadership</text>
+<text x="540" y="462.5" class="val row" style="animation-delay:1.75s">Project Manager on Intelligent Browser Agents</text>
+<text x="448" y="490.0" class="sec row" style="animation-delay:1.82s">~/reach</text>
+<text x="448" y="507.5" class="key row" style="animation-delay:1.89s">Web</text>
+<text x="540" y="507.5" class="acc row" style="animation-delay:1.89s">Edwingabriel.com</text>
+<text x="448" y="525.0" class="key row" style="animation-delay:1.96s">LinkedIn</text>
+<text x="540" y="525.0" class="acc row" style="animation-delay:1.96s">linkedin.com/in/edwin-villanueva</text>
+<text x="448" y="542.5" class="key row" style="animation-delay:2.03s">Mail</text>
+<text x="540" y="542.5" class="acc row" style="animation-delay:2.03s">Edwin.villa2@icloud.com</text>
+<line x1="448" y1="552.0" x2="940" y2="552.0" stroke="#30363d" class="row" style="animation-delay:2.10s"/>
+<text x="30" y="596" class="row" style="animation-delay:2.27s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to software engineer and full-stack roles</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 19 Jul 2026, 09:19 IST</text>
 </svg>
